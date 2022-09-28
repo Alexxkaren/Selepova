@@ -6,6 +6,7 @@ public class Alexandra {
 		// TODO Auto-generated method stub
 		System.out.println("Ahoj");
 		System.out.println("Nicol tu bola B) ");
+		//nicol zase pridala
 
 	}
 
